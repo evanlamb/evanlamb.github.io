@@ -10,7 +10,7 @@ title: You're up and running!
 2. bacon
 3. apple
 
-Here's the link to ![google] (http://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg). 
+Here's the link to [google] (http://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg)
 
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
