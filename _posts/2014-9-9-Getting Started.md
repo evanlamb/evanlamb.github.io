@@ -3,12 +3,11 @@ layout: post
 title: Getting Started.Tuesday
 ---
 
-##Recipe of the day
 
 <h2> Why I'm here </h2>
--sample sample 
--sample sample 
--sample sample
--sample sample 
+-It's because...
+
+<2> Current Inspiration </h2>
+-Sample...
 
 ![apple](http://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg)
