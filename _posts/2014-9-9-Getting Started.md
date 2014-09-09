@@ -1,12 +1,11 @@
 ---
 layout: post
-title: BAcon.Tuesday
+title: Getting Started.Tuesday
 ---
 
 ##Recipe of the day
 
-sample sample sample sample 
-
+<h2> Why I'm here </h2>
 -sample sample 
 -sample sample 
 -sample sample
