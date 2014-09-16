@@ -11,5 +11,5 @@ title: Getting Started.Tuesday
 
 <h3> Current Inspiration </h3>
 1. [Apple](http://www.apple.com//) The flat design become popular after apple release IOS7
-2. [Something]()
-3. [Something]()
+2. [OneDesignCompany](http://onedesigncompany.com/) Great design
+3. [RootStudio](http://www.rootstudio.co.uk/) Very interesting design
