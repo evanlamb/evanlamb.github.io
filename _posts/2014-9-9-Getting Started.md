@@ -10,6 +10,6 @@ title: Getting Started.Tuesday
   I also work as a part time graphic designer, some of my clients asks me if I can do web design for them too, but I don’t have sort of knowledge to build a website. This is the second reason why I want to learn more about web development. I think that would be so much helpful for my jobs in the future.
 
 <h3> Current Inspiration </h3>
-1. [Something]()
+1. [Apple](http://www.apple.com//)
 2. [Something]()
 3. [Something]()
