@@ -3,8 +3,8 @@ layout: post
 title: Responsive Images.Tuesday
 ---
 
-<h2>Responsive Images</2>
-I think that the responsive images is important in nowadays. 
+<h2> Responsive Images </h2>
+  I think that the responsive images is important in nowadays. 
 Because responsive web design is popular because more and more people using their smartphones to browse websites. 
 If a company really wants to promote their products, they don’t want to only build a traditional website, but also a responsive website. 
 Because nobody wants to browse a regular website on a small phone screen. 
