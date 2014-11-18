@@ -1,0 +1,6 @@
+---
+layout: post
+title: Old Broswer.Tuesday
+---
+
+I think the reason that why people still using out-dated browser is due to many reasons. one of these reasons is that their machine is too old and they can’t afford to update to the new os and run smoothy. So if they want to use the new version software, they have to update their hardware… the other reason i found is similar to the first reason, the company require their employers to use the exact version browser so that they can keep everything organize (or is because the company doesn’t want to spend money to upgrade their hardwares). The other possible reason i think is people lazy to update their softwares or they don’t even know how and why should they update the browser. They might think the current browser is good for what they need for browsing or something else. Although there are more and more people know how the new ted works specially the newer generation, there are still a large numbers of people don’t know the new ted too much. I think that we shouldn’t just forget about them, so we might need to spend some time and money to support the outdated user base because no one should be forgotten. It’s like old people can’t work, but it doesn’t mean we can just throw them at the street and let them die…
